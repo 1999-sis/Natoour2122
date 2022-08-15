@@ -19,4 +19,34 @@
     <string name="login">LOGIN</string>
     <string name="or">OR</string>
     <string name="OR">Or</string>
+    <string name="title_activity_home">activity_home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="NATOUR">app_name1</string>
+    <string name="profile">Profilo</string>
+    <string name="notifiche">Notifiche</string>
+    <string name="collection">Collection</string>
+    <string name="others">Altro</string>
+    <string name="settings">Impostazioni</string>
+    <string name="support">Supporto</string>
+    <string name="About_Us">AboutUs</string>
+    <string name="andrea_migliorisi">Andrea Migliorisi</string>
+    <string name="verificato">Verified</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">Search</string>
+    <string name="benvenuto_escursionista">benvenuto</string>
+    <string name="benvenuto">BENVENUTO ESCURSIONISTA</string>
+    <string name="messaggio_benvenuto">Nella nostra app puoi trovare la soluzione migliore per il tuo viaggio immerso nella natura</string>
+    <string name="messaggio_benvenuto1">ENTRA NEL NOSTRO MONDO E CONDIVIDI LE TUE ESPERIENZE CON NOI</string>
+    <string name="esplorazione">BUONA ESPLORAZIONE</string>
+    <string name="Path">Aggiungi Sentiero</string>
 </resources>

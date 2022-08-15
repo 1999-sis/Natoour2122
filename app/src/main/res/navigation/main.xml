@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    app:startDestination="@id/menuProfile">
+
+    <fragment
+        android:id="@+id/menuProfile"
+        android:name="ui_fragment.ProfileFragment"
+        android:label="Profilo"
+        tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/menuNotification"
+        android:name="ui_fragment.notificationFragment"
+        android:label="Notifiche"
+        tools:layout="@layout/fragment_notification" />
+    <fragment
+        android:id="@+id/menuSettings"
+        android:name="ui_fragment.settingFragment"
+        android:label="Impostazioni"
+        tools:layout="@layout/fragment_setting" />
+    <fragment
+        android:id="@+id/menuPath"
+        android:name="ui_fragment.MapFragment"
+        android:label="Aggiungi Sentiero"
+        tools:layout="@layout/fragment_map" />
+</navigation>

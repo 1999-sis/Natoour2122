@@ -1,8 +1,10 @@
-package com.example.natour2122;
+package ui_activity;
+
+import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.os.Bundle;
+import com.example.natour2122.R;
 
 public class SignUpActivity extends AppCompatActivity {
 

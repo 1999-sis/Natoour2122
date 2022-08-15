@@ -11,20 +11,19 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Natour2122">
         <activity
-            android:name=".MapActivity"
+            android:name="ui_activity.PreHome_Activity"
             android:exported="false" />
         <activity
-            android:name=".ui.MapActivity"
-            android:exported="false"
-            tools:ignore="MissingClass" />
-        <activity
-            android:name=".SignUpActivity"
+            android:name="ui_activity.HomeActivity"
             android:exported="false" />
         <activity
-            android:name=".LoginActivity"
+            android:name="ui_activity.SignUpActivity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name="ui_activity.LoginActivity"
+            android:exported="true" />
+        <activity
+            android:name="ui_activity.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
